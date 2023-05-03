@@ -1,4 +1,4 @@
-![My GitHub profile image](https://github.com/AdwowaRay/AdwowaRay/blob/main/MeGitNow.gif)
+![My GitHub profile image](https://github.com/AdwowaRay/AdwowaRay/blob/main/MeGitEhn.gif)
 ### Hola amigo👋
 <!--
 **AdwowaRay/AdwowaRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
