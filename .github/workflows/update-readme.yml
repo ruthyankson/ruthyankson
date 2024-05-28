@@ -1,0 +1,20 @@
+name: Update README
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update profile with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "Updated GitHub activity on profile"
+          MAX_LINES: 5
+          COMMIT_NAME: GitHub Activity Profile
