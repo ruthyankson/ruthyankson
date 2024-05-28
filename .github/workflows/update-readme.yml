@@ -1,4 +1,4 @@
-name: Update GitHub Profile Activity
+name: Update README
 
 on:
   schedule:
