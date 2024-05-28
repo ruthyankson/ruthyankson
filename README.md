@@ -76,7 +76,7 @@ function calculateStressLevel(tasks: Task[]): number {
 -->
 ```ts
 // Remove stress from tasks
-function removeStress(tasks: Task[]): void {
+function removeStress(tasks: Task[]): number {
   let stress_level: number = calculateStressLevel(tasks);
 
   while (stress_level > 0) {
@@ -93,6 +93,7 @@ function removeStress(tasks: Task[]): void {
     // Recalculate the total stress level
     stress_level = calculateStressLevel(tasks);
   }
+  return stress_level;
 }
 
 removeStress(work);
