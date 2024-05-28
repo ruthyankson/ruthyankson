@@ -29,7 +29,7 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-00599C?style=for-the-badge&logo=angular&logoColor=722f37)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
