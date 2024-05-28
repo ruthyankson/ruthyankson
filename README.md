@@ -1,5 +1,5 @@
 ![My GitHub profile image](https://github.com/ruthyankson/ruthyankson/blob/main/mybannergif.gif)
-## Hola amigo👋
+# Hola amigo👋
 
 I'm Ruth. I love building technology for a positive impact on humanity :raised_hands: 
 
