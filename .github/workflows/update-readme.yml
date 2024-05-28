@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: https://github.com/ruthyankson/ruthyankson/edit/main/README.md@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "Updated GitHub activity on profile"
