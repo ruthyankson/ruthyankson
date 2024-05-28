@@ -11,9 +11,62 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 
 ⚡ Fun fact: I stress the stressors; that's how I fight stress. 😁
 
+```ts
+// Task interface
+interface Task {
+  id: number;
+  task_name: string;
+  size: number;
+  priority: number;
+  stress_percentage: number;
+  in_progress: boolean;
+  completed: boolean;
+}
+```
+
+```
+// Array of tasks (note the commas between array elements)
+const work: Task[] = [
+  { id: 1, task_name: "Update social media presence", size: 15, priority: 4, stress_percentage: 12, in_progress: true, completed: false },
+  { id: 2, task_name: "Personal growth", size: 10, priority: 2, stress_percentage: 25, in_progress: true, completed: false },
+  { id: 3, task_name: "Jobs", size: 5, priority: 2, stress_percentage: 30, in_progress: true, completed: false }
+];
+
+// Calculate the total stress level of all tasks
+function calculateStressLevel(tasks: Task[]): number {
+  let totalStressLevel = 0;
+  tasks.forEach((task) => {
+    totalStressLevel += task.stress_percentage;
+  });
+  return totalStressLevel;
+}
+
+// Remove stress from tasks
+function removeStress(tasks: Task[]): void {
+  let stress_level: number = calculateStressLevel(tasks);
+
+  while (stress_level > 0) {
+    tasks.forEach((task) => {
+      // Complete tasks with no stress
+      if (task.stress_percentage === 0) {
+        task.completed = true;
+        task.in_progress = false;
+      } else if (task.in_progress) {
+        // Reduce stress for tasks in progress
+        task.stress_percentage--;
+      }
+    });
+    // Recalculate the total stress level
+    stress_level = calculateStressLevel(tasks);
+  }
+}
+
+removeStress(work)
+```
+
 ---
 
-### :zap: Recent Activity
+### 👩‍💻 Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
