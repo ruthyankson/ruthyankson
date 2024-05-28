@@ -100,7 +100,7 @@ removeStress(work);
 
 ---
 
-<div style="text-align: center;" markdown="1"> 
+<div align="center">
   
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ruthyankson&theme=tokyonight&hide_border=true) 
   
