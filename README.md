@@ -11,7 +11,7 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 
 ⚡ Fun fact: I stress the stressors; that's how I fight stress. 😁
 
-```ts
+<!--
 // Task interface
 interface Task {
   id: number;
@@ -22,9 +22,7 @@ interface Task {
   in_progress: boolean;
   completed: boolean;
 }
-```
 
-```
 // Array of tasks (note the commas between array elements)
 const work: Task[] = [
   { id: 1, task_name: "Update social media presence", size: 15, priority: 4, stress_percentage: 12, in_progress: true, completed: false },
@@ -40,7 +38,8 @@ function calculateStressLevel(tasks: Task[]): number {
   });
   return totalStressLevel;
 }
-
+-->
+```ts
 // Remove stress from tasks
 function removeStress(tasks: Task[]): void {
   let stress_level: number = calculateStressLevel(tasks);
@@ -61,7 +60,7 @@ function removeStress(tasks: Task[]): void {
   }
 }
 
-removeStress(work)
+removeStress(work);
 ```
 
 ---
