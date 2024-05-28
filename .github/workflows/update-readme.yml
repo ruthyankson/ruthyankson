@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '20'
       - name: Update GitHub Activity in Profile
-        uses: ruthyankson/github-activity-readme@master
+        uses: ruthyankson/ruthyankson@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "Updated GitHub activity on profile"
