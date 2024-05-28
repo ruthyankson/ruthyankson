@@ -99,7 +99,7 @@ removeStress(work);
 
 ---
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ruthyankson&theme=tokyonight&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthyankson&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ruthyankson&theme=tokyonight&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthyankson&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 <!--
