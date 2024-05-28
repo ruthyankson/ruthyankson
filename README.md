@@ -3,7 +3,7 @@
 
 I'm Ruth. I love building technology for a positive impact on humanity :raised_hands: 
 
-🎯 I’m currently working on [MEVN-CLI](https://github.com/ruthyankson/hymnal)
+🎯 I’m currently working on [Hymnal App](https://github.com/ruthyankson/hymnal)
 
 📫 How to reach me:
 
