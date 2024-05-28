@@ -1,5 +1,5 @@
 ![My GitHub profile image](https://github.com/ruthyankson/ruthyankson/blob/main/mybannergif.gif)
-### Hola amigo👋
+## Hola amigo👋
 
 I'm Ruth. I love building technology for a positive impact on humanity :raised_hands: 
 
@@ -13,7 +13,7 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 
 <p >
   
-![TypeScript](https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -38,9 +38,12 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 
 </p>
 
-📫 Let's connect!: [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/adwowaray) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ruthyankson)
+---
 
-⚡ Fun fact: I stress the stressors; that's how I fight stress. 😁
+## 📫 Let's connect!: [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/adwowaray) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ruthyankson)
+
+
+## ⚡ Fun fact: I stress the stressors; that's how I fight stress. 😁
 
 <!--
 // Task interface
