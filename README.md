@@ -97,13 +97,7 @@ function removeStress(tasks: Task[]): void {
 removeStress(work);
 ```
 
----
 
-### 👩‍💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 <!--
 **AdwowaRay/AdwowaRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
