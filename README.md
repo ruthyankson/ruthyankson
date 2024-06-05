@@ -25,7 +25,7 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 ![Github](https://img.shields.io/badge/-github-161B22?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress%2B%2B-00599WordPress?style=for-the-badge&logo=WordPress%2B%2B&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-00599C?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A020F0?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
