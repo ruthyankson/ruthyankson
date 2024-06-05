@@ -1,4 +1,4 @@
-![My GitHub profile image](https://github.com/ruthyankson/ruthyankson/blob/main/mybannergif.gif)
+![My GitHub profile image](https://github.com/ruthyankson/ruthyankson/blob/main/myGitProfile.gif)
 # Hola amigo👋
 
 I'm Ruth. I love building technology for a positive impact on humanity :raised_hands: 
@@ -14,7 +14,6 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 <p >
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +25,7 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 ![Github](https://img.shields.io/badge/-github-161B22?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress%2B%2B-00599WordPress?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A020F0?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
