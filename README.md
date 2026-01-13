@@ -3,7 +3,7 @@
 
 I'm Ruth. I love building technology for a positive impact on humanity :raised_hands: 
 
-🎯 I’m currently working on [Hymnal App](https://github.com/ruthyankson/hymnal)
+🎯 I’m currently working on [Adaptive Health AI](https://github.com/ruthyankson/adaptive-health-ai)
 
 <h2>
 
