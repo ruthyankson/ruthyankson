@@ -96,7 +96,7 @@ removeStress(work);
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ruthyankson&theme=tokyonight&hide_border=true) 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruthyankson&theme=elegant)](https://git.io/streak-stats)
   
 </div>
 
