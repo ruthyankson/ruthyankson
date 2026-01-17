@@ -5,6 +5,9 @@ I'm Ruth. I love building technology for a positive impact on humanity :raised_h
 
 🎯 I’m currently working on [Adaptive Health AI](https://github.com/ruthyankson/adaptive-health-ai)
 
+**Other personal projects**:
+[Hymnal App](https://github.com/ruthyankson/hymnal)
+
 <h2>
 
 🛠️ My Toolset:
